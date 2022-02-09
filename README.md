@@ -9,4 +9,4 @@ use `npm run server` command to run application using nodemon
 
 After application started use below link to navigate to swagger-ui
 
-`http://localhost:5000/api-docs`
+http://localhost:5000/api-docs
