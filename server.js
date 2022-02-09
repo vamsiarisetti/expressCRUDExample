@@ -32,6 +32,7 @@ mongoose.connect('mongodb+srv://vamsiarisetti:India%40123@cluster0.4glgr.mongodb
 .then(() => console.log('DB Connected..'))
 .catch(err => console.error(err));
 
+// response body schema
 /**
  * @swagger
  *  components:
@@ -49,6 +50,7 @@ mongoose.connect('mongodb+srv://vamsiarisetti:India%40123@cluster0.4glgr.mongodb
  *                      type: integer
  */
 
+// request body schema
 /**
  * @swagger
  *  components:
